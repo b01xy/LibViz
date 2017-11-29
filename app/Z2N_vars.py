@@ -559,6 +559,40 @@ and organisation which produce conflicts with the controversial organisations an
 
             }
 
+        ,
+
+'Wikifemia_Madeleine_Pelletier' : {
+
+            'API'           : 'Zotero',
+            'dataSet_name'  : 'Wikifemia_Madeleine_Pelletier',
+            'dataSet_infos' : {
+                                'presentation' : """... """,
+                                'authors'      : """... """,
+                                'methodology'  : """... """,
+                                'credits'      : """...""",
+                            },
+            'dataSet_key'   : '2018885', ### aka group key
+            'url_ROOT'      : create_API_URL('2018885'),
+            'url_WEB'       : create_WEB_URL('2018885'),
+            'urlsDict'      : {
+                                '4W2RGHFR'  : {'name' : 'Wikifemia_Madeleine_Pelletier' , 'len' : 0, 'hex' : '#325d58'},
+                            },
+            'nodesColorsDict' : {
+                    node_str_dict['group']     : {'name' : 'red'  , 'hex' : '#8eba7d' }, ###############
+                    node_str_dict['tags']      : {'name' : 'blue' , 'hex' : '#a57eb7' },
+                    node_str_dict['reference'] : {'name' : 'lime' , 'hex' : '#c57753' }
+                            },
+            'edgesDashDict' : {
+                    'ref-ref'  : '1',
+                    'ref-tag'  : '1 1',
+                    'ref-group': '3 3'
+                            },
+            'switch_color'  : 'hex',
+            'presetsFilters': {"radialFilter": ["THEMES"], "hideFilter" : [] , "breakFilter" : ["ref-group"] }, ## selection by .class and by .id !!!
+            'supertags'     : []
+
+            }
+
     ### it should be possible to extend this list ...
 
 

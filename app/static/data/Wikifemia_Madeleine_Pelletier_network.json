@@ -1,0 +1,1084 @@
+{
+  "links": [
+    {
+      "ID": "edge_1",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_WX7R7TGZ",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_2",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_WX7R7TGZ",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_3",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_S2EXUYAL",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_4",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_S2EXUYAL",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_5",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_3ZLP24E9",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_6",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_3ZLP24E9",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_7",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_BJFMBNEQ",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_8",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_BJFMBNEQ",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_9",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_5KPHQ75I",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_10",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_5KPHQ75I",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_11",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_8A9MUMAF",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_12",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_8A9MUMAF",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_13",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_EIPD3N25",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_14",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_EIPD3N25",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_15",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_7F5374BV",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_16",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_7F5374BV",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_17",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_R5RKT8J2",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_18",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_R5RKT8J2",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_19",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_QFUDL53Z",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_20",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_QFUDL53Z",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_21",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_2V8JSTSH",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_22",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_2V8JSTSH",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_23",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_YU38DWER",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_24",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_YU38DWER",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_25",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_9M847UUS",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_26",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_9M847UUS",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_27",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_TZHXSBPG",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_28",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_TZHXSBPG",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_29",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_L4TP4XSJ",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_30",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_L4TP4XSJ",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_31",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_NF4535YU",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_32",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_NF4535YU",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_33",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_TTAUMV8G",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_34",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_TTAUMV8G",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_35",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_MQRTEBTG",
+      "target": "tag_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_36",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_MQRTEBTG",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_37",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_8U9XMUTH",
+      "target": "tag_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_38",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_8U9XMUTH",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_39",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_9K7QPC6Y",
+      "target": "tag_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_40",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_9K7QPC6Y",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_41",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_VRH9CD5G",
+      "target": "tag_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_42",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_VRH9CD5G",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_43",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_N42422VF",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_44",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_N42422VF",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_45",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_P3JKZ6I4",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_46",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_P3JKZ6I4",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_47",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_BMVPEUER",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_48",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_BMVPEUER",
+      "target": "group_1",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_49",
+      "dash": "1 1",
+      "group": "ref-tag",
+      "source": "ref_YWMSH8JT",
+      "target": "tag_26",
+      "weight": 1.0
+    },
+    {
+      "ID": "edge_50",
+      "dash": "3 3",
+      "group": "ref-group",
+      "source": "ref_YWMSH8JT",
+      "target": "group_1",
+      "weight": 1.0
+    }
+  ],
+  "nodes": [
+    {
+      "ID": "ref_WX7R7TGZ",
+      "abstractNote": "Constance Pascal, n\u00e9e le 24 ao\u00fbt 1877 \u00e0 Pite\u0219ti (Valachie, Roumanie) et morte le 21 d\u00e9cembre 1937 \u00e0 Neuilly-sur-Marne (Seine-Saint-Denis),, est une psychiatre roumaine naturalis\u00e9e fran\u00e7aise qui, au cours de l'ann\u00e9e acad\u00e9mique 1902-1903, a pass\u00e9 l'internat en psychiatrie avec la doctoresse Madeleine Pelletier et fut la premi\u00e8re femme \u00e0 passer un concours public en tant que psychiatre en 1908.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_HI7YEGDW"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Constance Pascal",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Constance_Pascal&oldid=141710547",
+      "weight": 25
+    },
+    {
+      "ID": "ref_S2EXUYAL",
+      "abstractNote": "Sidonie-Gabrielle Colette n\u00e9e le 28 janvier 1873 \u00e0 Saint-Sauveur-en-Puisaye (Yonne), et morte le 3 ao\u00fbt 1954 \u00e0 Paris, est une femme de lettres fran\u00e7aise, connue surtout comme romanci\u00e8re, mais qui fut aussi mime, actrice et journaliste.\nApr\u00e8s Judith Gautier en 1910, Colette est la deuxi\u00e8me femme \u00e9lue membre de l'acad\u00e9mie Goncourt en 1945, dont elle devient pr\u00e9sidente, entre 1949 et 1954.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_AYRFG2D3"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Colette",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Colette&oldid=140642821",
+      "weight": 25
+    },
+    {
+      "ID": "ref_3ZLP24E9",
+      "abstractNote": "Cl\u00e9mentine Delait, n\u00e9e Cl\u00e9mentine Clattaux 5 mars 1865 \u00e0 Chaumousey (Vosges) et morte le 19 avril 1939 \u00e0 \u00c9pinal, est une tenanci\u00e8re de bar fran\u00e7aise qui fut connue pour \u00eatre une femme \u00e0 barbe.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_9SP2A4II"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Cl\u00e9mentine Delait",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Cl%C3%A9mentine_Delait&oldid=137753965",
+      "weight": 25
+    },
+    {
+      "ID": "ref_BJFMBNEQ",
+      "abstractNote": "Cl\u00e9mence Augustine Royer, n\u00e9e le 21 avril 1830 \u00e0 Nantes, morte le 6 f\u00e9vrier 1902 \u00e0 Neuilly-sur-Seine est une philosophe et scientifique fran\u00e7aise. Elle fut \u00e0 la fin du XIXe si\u00e8cle une figure du f\u00e9minisme et de la libre pens\u00e9e. On lui doit notamment la premi\u00e8re traduction en fran\u00e7ais de L'Origine des esp\u00e8ces de Charles Darwin et d'avoir ainsi introduit en France le darwinisme, en 1862.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_78NP8BRK"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Cl\u00e9mence Royer",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Cl%C3%A9mence_Royer&oldid=137123721",
+      "weight": 25
+    },
+    {
+      "ID": "ref_5KPHQ75I",
+      "abstractNote": "Clotilde Dissard est une journaliste et f\u00e9ministe fran\u00e7aise.\nElle est la fondatrice de La Revue f\u00e9ministe en 1895 et l'auteur de plusieurs ouvrages sur la condition des femmes et leurs droits. Clotilde Dissard a \u00e9galement collabor\u00e9 au journal La Fronde et \u00e9crit sur la probl\u00e9matique de la prostitution.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_DHVLH9SE"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Clotilde Dissard",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Clotilde_Dissard&oldid=108812668",
+      "weight": 25
+    },
+    {
+      "ID": "ref_8A9MUMAF",
+      "abstractNote": "Clara Zetkin n\u00e9e Clara Eissner le 5 juillet 1857 \u00e0 Wiederau, en Saxe et morte \u00e0 Arkhangelsko\u00efe, pr\u00e8s de Moscou, le 20 juin 1933 est une enseignante, journaliste et femme politique marxiste allemande, figure historique du f\u00e9minisme, plus pr\u00e9cis\u00e9ment du f\u00e9minisme socialiste.\nApr\u00e8s avoir \u00e9t\u00e9 membre jusqu'en 1917 de l'aile gauche du SPD, elle rejoint l'USPD (pacifistes) pour se retrouver dans le courant r\u00e9volutionnaire que constitue la Ligue spartakiste. Ce courant donne naissance pendant la r\u00e9volution allemande au Parti communiste d'Allemagne (KPD), dont Clara Zetkin est d\u00e9put\u00e9e au Reichstag durant la R\u00e9publique de Weimar, de 1920 \u00e0 1933.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_VR88VJL6"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Clara Zetkin",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Clara_Zetkin&oldid=140656996",
+      "weight": 25
+    },
+    {
+      "ID": "ref_EIPD3N25",
+      "abstractNote": "Christine Bard, n\u00e9e en 1965, est une historienne fran\u00e7aise.\nElle est sp\u00e9cialiste de l'histoire des femmes, du genre, du f\u00e9minisme et de l'antif\u00e9minisme.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_A6JEUIZH"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Christine Bard",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Christine_Bard&oldid=140966888",
+      "weight": 25
+    },
+    {
+      "ID": "ref_7F5374BV",
+      "abstractNote": "Christabel Harriette Pankhurst (22 septembre 1880 \u2013 13 f\u00e9vrier 1958) est une suffragette anglaise cofondatrice de la Women's Social and Political Union (WSPU).",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_KTE46S5Q"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Christabel Pankhurst",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Christabel_Pankhurst&oldid=142434048",
+      "weight": 25
+    },
+    {
+      "ID": "ref_R5RKT8J2",
+      "abstractNote": "Caroline Kauffmann (1840-1926) est une militante f\u00e9ministe et suffragette. Elle sera secr\u00e9taire g\u00e9n\u00e9rale de l\u2019association Solidarit\u00e9 des femmes au d\u00e9but des ann\u00e9es 1900 puis r\u00e9dactrice en chef de la revue Combat f\u00e9ministe.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_6L3ZGCKS"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Caroline Kauffmann",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Caroline_Kauffmann&oldid=136852704",
+      "weight": 25
+    },
+    {
+      "ID": "ref_QFUDL53Z",
+      "abstractNote": "Adrienne Avril de Sainte-Croix (1855-1939) est une philanthrope et f\u00e9ministe fran\u00e7aise.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_8UZYBULH"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Avril de Sainte-Croix",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Avril_de_Sainte-Croix&oldid=138391680",
+      "weight": 25
+    },
+    {
+      "ID": "ref_2V8JSTSH",
+      "abstractNote": "Augusta Dejerine-Klumpke, n\u00e9e le 15 octobre 1859 \u00e0 San Francisco et morte le 5 novembre 1927 \u00e0 Paris, est une neurologue fran\u00e7aise d'origine am\u00e9ricaine, \u00e9pouse de Jules Dejerine, neurologue lui aussi. Elle fut la premi\u00e8re femme dipl\u00f4m\u00e9e de l'Internat des h\u00f4pitaux de Paris.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_AKBVCL3D"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Augusta Dejerine-Klumpke",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Augusta_Dejerine-Klumpke&oldid=141617212",
+      "weight": 25
+    },
+    {
+      "ID": "ref_YU38DWER",
+      "abstractNote": "Arria Ly (1881-1934), n\u00e9e le 24 mars 1881 \u00e0 Cayran dans le Lot (France), est d\u00e9c\u00e9d\u00e9e le 19 d\u00e9cembre 1934 \u00e0 Stockholm (Su\u00e8de).\nDe son vrai nom Jos\u00e9phine Gondon, \u00e9tait une f\u00e9ministe fran\u00e7aise, active \u00e0 la fin de la Belle \u00c9poque et pendant l'entre-deux-guerres.\nRepr\u00e9sentante de l'aile radicale du mouvement f\u00e9ministe fran\u00e7ais, elle militait pour une \u00e9galit\u00e9 absolue entre hommes et femmes. \u00c0 c\u00f4t\u00e9 de revendications classiques pour son \u00e9poque, comme le droit au travail ou le suffrage f\u00e9minin, elle revendiquait \u00e9galement pour les femmes le droit \u00e0 l'autod\u00e9fense contre les agressions masculines et militait pour le service militaire f\u00e9minin et la cr\u00e9ation d'un corps d'arm\u00e9e de volontaires f\u00e9minines. Portant elle-m\u00eame le r\u00e9volver, elle se signala en provoquant en duel plusieurs de ses contradicteurs masculins. Elle pr\u00f4nait enfin, comme sa cons\u0153ur Madeleine Pelletier, une virginit\u00e9 militante, signifiant ainsi \u00e0 la fois son refus du mariage et de l'amour libre.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_LDU66ZMF"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Arria Ly",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Arria_Ly&oldid=138422041",
+      "weight": 25
+    },
+    {
+      "ID": "ref_9M847UUS",
+      "abstractNote": "Arria est une dame de la Rome antique, \u00e9pouse de Caecina Paetus et c\u00e9l\u00e8bre par son courage.\nL'\u00e9pisode c\u00e9l\u00e8bre se d\u00e9roule lorsque l'empereur Claude commanda \u00e0 Paetus de se suicider, celui-ci ne put se r\u00e9soudre \u00e0 le faire jusqu'\u00e0 ce que Arria ne lui prenne le couteau des mains et se poignarde elle-m\u00eame. Elle lui redonna alors le couteau en lui disant que \u00e7a ne faisait pas mal (\u00ab Non dolet, Paete! \u00bb).\nSon histoire est surtout connue gr\u00e2ce \u00e0 la correspondance de Pline le Jeune, dans laquelle elle est mentionn\u00e9e apr\u00e8s que celui-ci a rencontr\u00e9 sa petite fille, Fannia.\nPline \u00e9crit que le fils d'Arria est mort pendant que Caecina Paetus \u00e9tait gravement malade. Elle cacha la mort de son enfant \u00e0 son mari et planifia l'enterrement de l'enfant seule. \u00c0 chaque fois qu'elle allait voir son mari dans sa chambre et que celui-ci s'int\u00e9ressait \u00e0 la sant\u00e9 de son fils, Arria lui disait que celle-ci s'am\u00e9liorait. Quand l'\u00e9motion devenait trop forte, elle s'excusait et s'en allait, selon Pline, \u00ab se donner au chagrin \u00bb, pour ensuite revenir voir son mari une fois calm\u00e9e.\nApr\u00e8s la r\u00e9bellion contre Claude men\u00e9e par Lucius Arruntius Camillus Scribonianus en l'an 42, Caecina Paetus fut arr\u00eat\u00e9 et emmen\u00e9 \u00e0 Rome pour collaboration avec Scribonianus, d\u00e9j\u00e0 ex\u00e9cut\u00e9. Arria implora le capitaine du navire de la laisser accompagner son mari. Elle disait qu'elle pouvait remplacer les esclaves emmen\u00e9s pour s'occuper de Paetus pendant le trajet. Le capitaine refusa ; Arria suivit donc le navire dans un petit bateau de p\u00eache.\nArria s'attaqua \u00e0 la femme de Scribonianus apr\u00e8s le t\u00e9moignage de celle-ci pour l'accusation, criant : \u00ab Dois-je vous accorder la moindre attention, vous qui pouvez continuer \u00e0 vivre apr\u00e8s que Scribonianus est mort dans vos bras ? \u00bb Cette phrase mit en garde les gens de son intention de mourir avec Paetus, condamn\u00e9 \u00e0 mort pour son r\u00f4le dans la r\u00e9bellion.\nSon beau-fils, Thrasea, essaya de la convaincre de continuer \u00e0 vivre, lui demandant si elle voudrait que sa fille se suicide s'il \u00e9tait condamn\u00e9 \u00e0 mort. Arria r\u00e9pondit que oui, si sa fille (aussi pr\u00e9nomm\u00e9e Arria), avait v\u00e9cu aussi longuement et heureusement avec Thrasea qu'elle-m\u00eame avec Paetus.\nSe rendant compte qu'on l'observait de pr\u00e8s, elle d\u00e9clara qu'on ne pouvait pas l'emp\u00eacher de mourir. Elle se jeta violemment contre un mur, se rendant inconsciente. Une fois revenue \u00e0 elle, elle dit : \u00ab Je vous avais dit que je le ferais durement si vous m'emp\u00eachez de le faire facilement. \u00bb\nD'apr\u00e8s la correspondance de Pline le Jeune on peut supposer qu'Arria fut finalement autoris\u00e9e \u00e0 rejoindre son mari dans ce que les Romains appelaient une \u00ab mort noble \u00bb (se tuer avec un couteau ou une \u00e9p\u00e9e).\nSa fille, nomm\u00e9e aussi Arria, ne voulant point survivre \u00e0 Thrasea, son mari, condamn\u00e9 \u00e0 mort par N\u00e9ron, se fit ouvrir les veines, mais Thrasea la pria instamment de lui survivre pour ses enfants.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_HIS5UQQ5"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Arria",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Arria&oldid=139768737",
+      "weight": 25
+    },
+    {
+      "ID": "ref_TZHXSBPG",
+      "abstractNote": "Anouk Grinberg, n\u00e9e le 20 mars 1963 \u00e0 Uccle (Belgique), est une actrice fran\u00e7aise, \u00e9galement peintre et \u00e9crivain.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_ML2VZXLI"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Anouk Grinberg",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Anouk_Grinberg&oldid=139932166",
+      "weight": 25
+    },
+    {
+      "ID": "ref_L4TP4XSJ",
+      "abstractNote": "Annie Kenney, n\u00e9e le 13 septembre 1879 \u00e0 Springhead (Saddleworth, Yorkshire), en Angleterre et morte le 9 juillet 1953, est une suffragette britannique.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_33UYHBCR"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Annie Kenney",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Annie_Kenney&oldid=135934761",
+      "weight": 25
+    },
+    {
+      "ID": "ref_NF4535YU",
+      "abstractNote": "Anna Jaclard (18 octobre 1843 \u2013 14 septembre 1887), n\u00e9e Anna Vassilievna Korvine-Kroukovska\u00efa (en russe : \u0410\u043d\u043d\u0430 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u043d\u0430 \u041a\u043e\u0440\u0432\u0438\u043d-\u041a\u0440\u0443\u043a\u043e\u0432\u0441\u043a\u0430\u044f), est une socialiste et f\u00e9ministe r\u00e9volutionnaire russe. Elle participe \u00e0 la Commune de Paris (1871) et \u00e0 l'Association internationale des travailleurs. Elle est li\u00e9e d'amiti\u00e9 avec Karl Marx et a \u00e9t\u00e9 fianc\u00e9e, pendant un temps, avec Fiodor Dosto\u00efevski, mais a \u00e9pous\u00e9 le blanquiste Victor Jaclard. La math\u00e9maticienne et socialiste Sofia Kovalevska\u00efa (1850\u20131891) est sa s\u0153ur.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_TADADKK5"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Anna Jaclard",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Anna_Jaclard&oldid=140517532",
+      "weight": 25
+    },
+    {
+      "ID": "ref_TTAUMV8G",
+      "abstractNote": "Aline Valette (n\u00e9e Alphonsine Goudeman, 5 October 1850 \u2013 21 March 1899) was a French feminist and socialist. She believed that society should provide support to women engaged in motherhood, the most important of all occupations.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_ZXMIZHVU"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Aline Valette",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://en.wikipedia.org/w/index.php?title=Aline_Valette&oldid=723551274",
+      "weight": 25
+    },
+    {
+      "ID": "ref_MQRTEBTG",
+      "abstractNote": "Le Congr\u00e8s international du droit des femmes est une r\u00e9union de f\u00e9ministe qui s'est tenu du 25 juillet au 9 ao\u00fbt 1878 \u00e0 Paris.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_WIJCHWX4"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Congr\u00e8s international du droit des femmes",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "initiative"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Congr%C3%A8s_international_du_droit_des_femmes&oldid=135577023",
+      "weight": 25
+    },
+    {
+      "ID": "ref_8U9XMUTH",
+      "abstractNote": "La biblioth\u00e8que Marguerite-Durand est une biblioth\u00e8que sur l'histoire des femmes, du f\u00e9minisme et du genre, faisant partie du r\u00e9seau des biblioth\u00e8ques sp\u00e9cialis\u00e9es de la ville de Paris. Elle est fond\u00e9e en 1932 pour recevoir la donation que fait la journaliste et militante f\u00e9ministe Marguerite Durand (1864-1936), de son vivant, de sa biblioth\u00e8que \u00e0 la ville de Paris.\nSitu\u00e9e dans la mairie du 5e arrondissement de sa cr\u00e9ation \u00e0 1989, elle se trouve depuis cette date au 79, rue Nationale, dans le quartier de la Gare du 13e arrondissement de Paris.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_WJKHLK8K"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Biblioth\u00e8que Marguerite-Durand",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "initiative"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Biblioth%C3%A8que_Marguerite-Durand&oldid=142369808",
+      "weight": 25
+    },
+    {
+      "ID": "ref_9K7QPC6Y",
+      "abstractNote": "",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_EYLSNYHF"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Association pour le droit des femmes",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "initiative"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Association_pour_le_droit_des_femmes&oldid=125141897",
+      "weight": 25
+    },
+    {
+      "ID": "ref_VRH9CD5G",
+      "abstractNote": "Archives du f\u00e9minisme est une association loi 1901 fond\u00e9e en 2000 et ayant pour objectif principal de pr\u00e9server les sources de l\u2019histoire des f\u00e9minismes. La collection associ\u00e9e Archives du f\u00e9minisme, publi\u00e9e par les Presses universitaires de Rennes, favorise la diffusion de travaux de recherche portant sur les mouvements d'\u00e9mancipation des femmes .",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_9YVAW27F"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Archives du f\u00e9minisme",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "initiative"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Archives_du_f%C3%A9minisme&oldid=140810910",
+      "weight": 25
+    },
+    {
+      "ID": "ref_N42422VF",
+      "abstractNote": "Alice Paul, n\u00e9e le 11 janvier 1885 et morte le 9 juillet 1977, est une suffragette am\u00e9ricaine. Avec son amie Lucy Burns et d'autres f\u00e9ministes, elle contribua \u00e0 l'obtention du droit de vote des femmes aux \u00c9tats-Unis en 1920 (XIXe Amendement \u00e0 la Constitution).",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_FDFIEM43"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Alice Paul",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Alice_Paul&oldid=135266380",
+      "weight": 25
+    },
+    {
+      "ID": "ref_P3JKZ6I4",
+      "abstractNote": "Alexandra Mikha\u00eflovna Kollonta\u00ef (en russe : \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043d\u0430 \u041a\u043e\u043b\u043b\u043e\u043d\u0442\u0430\u0439), n\u00e9e le 31 mars (19 mars) 1872 \u00e0 Saint-P\u00e9tersbourg et morte le 9 mars 1952 \u00e0 Moscou, est une femme politique socialiste, communiste et militante f\u00e9ministe sovi\u00e9tique. Elle est la premi\u00e8re femme de l'Histoire contemporaine \u00e0 avoir \u00e9t\u00e9 membre d'un gouvernement et ambassadrice dans un pays \u00e9tranger.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_FWKKP6CJ"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Alexandra Kollonta\u00ef",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Alexandra_Kollonta%C3%AF&oldid=135353731",
+      "weight": 25
+    },
+    {
+      "ID": "ref_BMVPEUER",
+      "abstractNote": "Louise Eug\u00e9nie Alexandrine Marie David, plus connue sous le nom d'Alexandra David-N\u00e9el, n\u00e9e le 24 octobre 1868 \u00e0 Saint-Mand\u00e9, morte \u00e0 pr\u00e8s de 101 ans le 8 septembre 1969, est une orientaliste, tib\u00e9tologue, chanteuse d'op\u00e9ra et f\u00e9ministe, journaliste et anarchiste, \u00e9crivaine et exploratrice, franc-ma\u00e7onne et bouddhiste de nationalit\u00e9s fran\u00e7aise et belge.\nElle fut, en 1924, la premi\u00e8re femme d'origine europ\u00e9enne \u00e0 s\u00e9journer \u00e0 Lhassa au Tibet, exploit dont les journaux se firent l'\u00e9cho un an plus tard et qui contribua fortement \u00e0 sa renomm\u00e9e, en plus de ses qualit\u00e9s personnelles et de son \u00e9rudition.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_DCW2RQ7F"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Alexandra David-N\u00e9el",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Alexandra_David-N%C3%A9el&oldid=137526974",
+      "weight": 25
+    },
+    {
+      "ID": "ref_YWMSH8JT",
+      "abstractNote": "Adela Pankhurst Walsh (19 juin 1885 - 23 mai 1961) fut la t\u00eate de file des suffragettes en Australie. Elle joua un r\u00f4le politique majeur au d\u00e9but du XXe si\u00e8cle en participant \u00e0 la fondation du Parti communiste d'Australie.",
+      "authors": [],
+      "category": "reference",
+      "color": "#c57753",
+      "connex": [
+        "ref_RGK5HLM4"
+      ],
+      "dataset": "Wikifemia_Madeleine_Pelletier",
+      "dataset_": "Wikifemia_Madeleine_Pelletier",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Adela Pankhurst",
+      "note": "",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "encyclopediaArticle",
+      "url": "https://fr.wikipedia.org/w/index.php?title=Adela_Pankhurst&oldid=129458130",
+      "weight": 25
+    },
+    {
+      "ID": "group_1",
+      "category": "group",
+      "color": "#325d58",
+      "group": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "label": "Wikifemia_Madeleine_Pelletier",
+      "supertag": true,
+      "tag": [
+        "Wikifemia_Madeleine_Pelletier"
+      ],
+      "type": "group name",
+      "url": "",
+      "weight": 50
+    },
+    {
+      "ID": "tag_1",
+      "category": "tag",
+      "color": "#a57eb7",
+      "group": "",
+      "label": "initiative",
+      "supertag": false,
+      "tag": [
+        "initiative"
+      ],
+      "type": "tag name",
+      "url": "",
+      "weight": 25
+    },
+    {
+      "ID": "tag_26",
+      "category": "tag",
+      "color": "#a57eb7",
+      "group": "",
+      "label": "personne",
+      "supertag": false,
+      "tag": [
+        "personne"
+      ],
+      "type": "tag name",
+      "url": "",
+      "weight": 25
+    }
+  ],
+  "stats": {
+    "dfltColorsDict": [
+      {
+        "hex": "#8eba7d",
+        "name": "group"
+      },
+      {
+        "hex": "#c57753",
+        "name": "reference"
+      },
+      {
+        "hex": "#a57eb7",
+        "name": "tag"
+      }
+    ],
+    "edges_number": 50,
+    "groups_names": [
+      "Wikifemia_Madeleine_Pelletier"
+    ],
+    "groups_number": 1,
+    "grpsColorsDict": [
+      {
+        "hex": "#325d58",
+        "name": "Wikifemia_Madeleine_Pelletier"
+      }
+    ],
+    "nodes_number": 28,
+    "refs_number": 25,
+    "tags_names": [
+      "initiative",
+      "personne"
+    ],
+    "tags_number": 2
+  }
+}
