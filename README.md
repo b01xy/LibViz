@@ -53,6 +53,11 @@ To develop & test this application, you can use a Python “virtualenv”. To pr
     $ pip install -r requirements.txt
 
 -------------------------------------------------------
+TEST WITH A LOCAL SERVER
+-------------------------------------------------------
+    $ python run.py
+
+-------------------------------------------------------
 APACHE CONFIGURATION
 -------------------------------------------------------
 
