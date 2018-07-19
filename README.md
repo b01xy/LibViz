@@ -56,6 +56,7 @@ To develop & test this application, you can use a Python “virtualenv”. To pr
 TEST WITH A LOCAL SERVER
 -------------------------------------------------------
     $ python run.py
+    then open a browser with this url : http://127.0.0.1:5000
 
 -------------------------------------------------------
 APACHE CONFIGURATION
